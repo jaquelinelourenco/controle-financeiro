@@ -10,7 +10,7 @@
 </p>
 
 
-### About me 🧑:
+### About me 💻:
 Desenvolvedora de Software front-end
 
 <br/>
